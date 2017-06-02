@@ -2,6 +2,8 @@
 
 Code taken from http://www.808.dk/?code-csharp-nas-performance
 
+Basic bugs fixed (threading) + 4.5 .NET support + very basic cleanup
+
 This free utility benchmarks the read and write performance in megabytes per second of network attached storage connected through SMB/CIFS network shares.
 
 NAS performance tester 1.7
